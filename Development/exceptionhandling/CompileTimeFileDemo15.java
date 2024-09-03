@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class CompileTimeFileDemo15 {
 	public static void main(String[] args) {
 		try {
-			
 			File file =new File("C:/prog/java1.txt");
 			Scanner Scanner=new Scanner(file);
 			while(Scanner.hasNextLine()) {
