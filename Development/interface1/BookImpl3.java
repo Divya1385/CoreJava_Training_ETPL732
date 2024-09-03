@@ -27,5 +27,9 @@ public class BookImpl3 implements Book,NewBook{
 			BI.show();
 			BI.addNewBook();
 			BI.mydata();
-	}
-}
+	
+			
+		}
+		
+		}
+

@@ -3,5 +3,5 @@ package com.evergent.corejava.interface1;
 public interface NewBook extends MyData{
 	public void addNewBook();
 	//we can write same abstract method in another interface
-	public void bookprice();
+	public void BookPrice();
 }
